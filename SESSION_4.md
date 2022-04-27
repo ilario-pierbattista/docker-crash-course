@@ -2,4 +2,9 @@
 
 ## Session 4
 
-Empty file
+## TODO
+
+- env variables, .env files and env variables usages in docker-compose.yml
+    - var for build args 
+    - var for images 
+    - secrets
